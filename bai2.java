@@ -6,7 +6,7 @@ public class bai2 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Loi an cut");
-		System.out.println("My name is Binh");
+		System.out.println("Binh Hoang");
 		System.out.print("Nhap so phan tu cua mang: ");
 		int n = sc.nextInt();
 		int[] A = new int[n];
