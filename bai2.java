@@ -17,7 +17,7 @@ public class bai2 {
 		}
 		System.out.println("XUAT MANG: ");
 		for(i = 0; i < n ; i++)
-			System.out.printf("A[%d] = %d \n",i,A[i]);
+			System.out.printf("%d  ",i,A[i]);
 		System.out.print("SO NGUYEN TO: ");
 		for(i = 0; i < n; i++)
 		{
