@@ -5,7 +5,7 @@ public class bai2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Loi an cut");
+		System.out.println("Nguyen Thi Loi");
 		System.out.println("Binh Hoang");
 		System.out.print("Nhap so phan tu cua mang: ");
 		int n = sc.nextInt();
